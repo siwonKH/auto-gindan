@@ -13,9 +13,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pyperclip
 
-'''while True:
-    ytp-ad-text ytp-ad-skip-button-text'''
-
 TOKEN = ''
 client = commands.Bot(command_prefix=';')
 
